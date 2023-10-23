@@ -1,19 +1,17 @@
 # socket_flutter_chat
 
-A new Flutter project created with FlutLab - https://flutlab.io
+Una aplicación simple de un chat usando Socket.IO
 
-## Getting Started
+## Resources
 
-A few resources to get you started if this is your first Flutter project:
 
-- https://flutter.dev/docs/get-started/codelab
-- https://flutter.dev/docs/cookbook
+- https://pub.dev/packages/uuid
+- https://pub.dev/packages/socket_io_client
+- Flutter Version: 3.10
+- Backend: https://github.com/Seerendo/socket_io_introduction
 
-For help getting started with Flutter, view our
-https://flutter.dev/docs, which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 
-## Getting Started: FlutLab - Flutter Online IDE
+## Libraries
 
-- How to use FlutLab? Please, view our https://flutlab.io/docs
-- Join the discussion and conversation on https://flutlab.io/residents
+- socket_io_client: ^2.0.3
+- uuid: ^4.1.0
